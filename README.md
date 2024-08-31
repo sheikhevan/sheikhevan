@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **NextAuth**
 
-- 👨‍💻 All of my projects are available at [evanalvarez.xyz](https://evanalvarez.xyz)
+- 👨‍💻 All of my projects are available at [evanalvarez.dev](https://evanalvarez.dev)
 
-- 📝 I regularly write articles on [evanalvarez.xyz](https://evanalvarez.xyz)
+- 📝 I regularly write articles on [evanalvarez.dev](https://evanalvarez.dev)
 
 - 📫 How to reach me **evanalvarez@tutamail.com**
 
