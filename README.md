@@ -8,5 +8,5 @@
 
 <p align="left">&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sheikhevan&show_icons=true&locale=en&theme=transparent" alt="sheikhevan" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhevan&locale=en&theme=transparent" alt="sheikhevan" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhevan&layout=donut&locale=en&theme=transparent" alt="sheikhevan" />
 </p>
