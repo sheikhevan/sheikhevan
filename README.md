@@ -20,8 +20,8 @@
 
 <h3>Find me online!</h3>
 <p align="left">
+    <a href="https://linkedin.com/in/evan-alvarez-27256a326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan-alvarez-27256a326" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/26629850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26629850" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/1278461266356338782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_sheikhevan" height="30" width="40" /></a>
 </p>
 
 <h3>My Stats!</h3>
