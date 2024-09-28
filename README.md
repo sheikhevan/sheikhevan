@@ -30,5 +30,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhevan&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/sheikhevan/sheikhevan">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhevan&langs_count=8&theme=transparent&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhevan&langs_count=8&theme=transparent&card_width=340&layout=donut" />
 </a>
